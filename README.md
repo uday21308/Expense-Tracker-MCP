@@ -155,6 +155,11 @@ Utilities         ₹3300
 Housing           ₹5000
 ```
 
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf6bad24-cdba-4bd6-a841-12d2bc456c85" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1c36878-858e-4acb-a519-ac73fb1d34ce" />
+
+
+
 # 🧠 How It Works (Short Explanation)
 
 The server starts using FastMCP.
@@ -189,3 +194,4 @@ Claude Desktop MCP tools
 Agent-like expense tracking
 
 A great real-world, developer-focused MCP demo project.
+
